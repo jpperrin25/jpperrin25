@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+<title id="title">JobBoard</title><desc id="desc">Icône de base de données dorée sur fond olive profond.</desc>
+<defs><linearGradient id="olive" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#42492d"/><stop offset="1" stop-color="#303622"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e6c47a"/><stop offset="1" stop-color="#c59a43"/></linearGradient></defs>
+<rect x="3" y="3" width="154" height="154" rx="25" fill="url(#olive)" stroke="#c7a65e" stroke-width="2"/>
+<ellipse cx="80" cy="43" rx="30" ry="13" fill="none" stroke="url(#gold)" stroke-width="4"/><path d="M50 43v67c0 7 13 13 30 13s30-6 30-13V43" fill="none" stroke="url(#gold)" stroke-width="4"/>
+<path d="M50 65c0 7 13 13 30 13s30-6 30-13M50 87c0 7 13 13 30 13s30-6 30-13" fill="none" stroke="url(#gold)" stroke-width="4"/>
+<circle cx="99" cy="57" r="2.8" fill="#e6c47a"/><circle cx="99" cy="79" r="2.8" fill="#e6c47a"/><circle cx="99" cy="101" r="2.8" fill="#e6c47a"/></svg>

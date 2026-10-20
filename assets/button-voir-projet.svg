@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="64" viewBox="0 0 320 64" role="img" aria-labelledby="title desc">
+<title id="title">Voir le projet</title><desc id="desc">Bouton crème avec contour champagne et flèche dorée.</desc>
+<defs><linearGradient id="cream" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffdf8"/><stop offset="1" stop-color="#f5efe1"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9b66c"/><stop offset="1" stop-color="#b8872f"/></linearGradient></defs>
+<rect x="1.5" y="1.5" width="317" height="61" rx="30.5" fill="url(#cream)" stroke="url(#gold)" stroke-width="2"/>
+<text x="143" y="39" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#45482d">Voir le projet</text>
+<path d="M257 32h28m-10-10 10 10-10 10" fill="none" stroke="url(#gold)" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></svg>

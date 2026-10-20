@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio V2</title><desc id="desc">Icône de navigateur dorée sur fond olive profond.</desc>
+<defs><linearGradient id="olive" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#42492d"/><stop offset="1" stop-color="#303622"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e6c47a"/><stop offset="1" stop-color="#c59a43"/></linearGradient></defs>
+<rect x="3" y="3" width="154" height="154" rx="25" fill="url(#olive)" stroke="#c7a65e" stroke-width="2"/>
+<rect x="31" y="38" width="98" height="84" rx="8" fill="none" stroke="url(#gold)" stroke-width="4"/><path d="M32 56H128" fill="none" stroke="url(#gold)" stroke-width="4"/>
+<circle cx="43" cy="47" r="3" fill="#e2bd6b"/><circle cx="54" cy="47" r="3" fill="#e2bd6b"/><circle cx="65" cy="47" r="3" fill="#e2bd6b"/>
+<path d="M48 105l18-23 14 16 12-13 21 20H48z" fill="#d9b666" opacity=".95"/><circle cx="103" cy="76" r="6" fill="#d9b666"/></svg>
