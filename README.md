@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/Elegant Green and Gold Analytics Banner.png" alt="Jean-Philippe Perrin — Data Analytics, Business Analysis et Supply Chain" width="100%">
+  <img src="https://raw.githubusercontent.com/jpperrin25/jpperrin25/main/assets/github-banner.png" alt="Jean-Philippe Perrin — Data Analytics, Business Analysis et Supply Chain" width="100%">
 </p>
-
 <p align="center">
   <a href="https://jpperrin25.github.io/">
     <img src="https://img.shields.io/badge/PORTFOLIO-3f4630?style=for-the-badge&logo=googlechrome&logoColor=f4f0e8" alt="Voir mon portfolio">
