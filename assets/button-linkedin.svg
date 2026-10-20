@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="64" viewBox="0 0 300 64">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9a8869"/><stop offset="1" stop-color="#78664d"/></linearGradient></defs>
+  <rect x="1" y="1" width="298" height="62" rx="31" fill="url(#g)" stroke="#d5bf8b" stroke-width="1.5"/>
+  <circle cx="35" cy="32" r="15" fill="#f5efdf" opacity=".96"/>
+  <text x="35" y="39" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#79684f">in</text>
+  <text x="166" y="39" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.2" fill="#fffaf0">LINKEDIN</text>
+  <path d="M270 26l7 6-7 6M263 32h14" fill="none" stroke="#f5efdf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
