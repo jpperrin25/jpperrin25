@@ -1,17 +1,21 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jpperrin25/jpperrin25/main/assets/github-banner.png" alt="Jean-Philippe Perrin — Data Analytics, Business Analysis et Supply Chain" width="100%">
 </p>
+
 <p align="center">
-  <a href="https://jpperrin25.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-3f4630?style=for-the-badge&logo=googlechrome&logoColor=f4f0e8" alt="Voir mon portfolio">
+  <a href="https://jpperrin25.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/jpperrin25/jpperrin25/main/assets/button-portfolio.svg" alt="Découvrir mon portfolio" width="220">
   </a>
-  <a href="https://www.linkedin.com/in/jean-philippe-perrin-28353a93/">
-    <img src="https://img.shields.io/badge/LINKEDIN-c8a85a?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Voir mon LinkedIn">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jean-philippe-perrin-28353a93/" target="_blank">
+    <img src="https://raw.githubusercontent.com/jpperrin25/jpperrin25/main/assets/button-linkedin.svg" alt="Mon profil LinkedIn" width="220">
   </a>
-  <a href="https://github.com/jpperrin25">
-    <img src="https://img.shields.io/badge/GITHUB-3f4630?style=for-the-badge&logo=github&logoColor=f4f0e8" alt="Voir mon GitHub">
+  &nbsp;
+  <a href="https://github.com/jpperrin25" target="_blank">
+    <img src="https://raw.githubusercontent.com/jpperrin25/jpperrin25/main/assets/button-github.svg" alt="Mon profil GitHub" width="220">
   </a>
 </p>
+
 
 <h2 align="center">À PROPOS DE MOI</h2>
 
