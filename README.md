@@ -1,4 +1,5 @@
 # Jean-Philippe Perrin
+
 ### Data Analytics · Business Analysis · Supply Chain
 
 > De l'expérience opérationnelle à l'analyse des données : je construis progressivement mes compétences en informatique, Data et automatisation à travers des projets concrets.
@@ -26,8 +27,6 @@ Je recherche une alternance à partir du **21 décembre 2026**, avec un rythme d
 
 ## 🛠️ Technologies en apprentissage
 
-Je développe actuellement mes bases techniques autour de ces outils :
-
 | Domaine | Technologies |
 |---|---|
 | Développement web | HTML5, CSS3, JavaScript |
@@ -49,7 +48,7 @@ Mon portfolio professionnel, conçu autour d'une identité visuelle sobre mêlan
 - Pages consacrées à mes expériences, compétences et projets.
 - Développement en HTML, CSS et JavaScript.
 
-**[Voir le portfolio en ligne](https://jpperrin25.github.io/Portfolio-Perrin-Jean-Philippe/)** · [Voir le code source](https://github.com/jpperrin25/Portfolio-Perrin-Jean-Philippe)
+[Voir le portfolio](https://jpperrin25.github.io/)
 
 ### 💼 JobBoard
 
@@ -59,17 +58,17 @@ Un projet d'application web réalisé dans le cadre de ma formation, destiné à
 - Intégration front-end avec Twig, HTML, CSS et JavaScript.
 - Projet collaboratif utilisant Symfony, PHP et PostgreSQL.
 
-[Consulter le dépôt JobBoard](https://github.com/jpperrin25/job-platform)
+[Voir le dépôt JobBoard](https://github.com/jpperrin25/job-platform)
 
 *Les fonctionnalités et la démonstration seront présentées selon l'état réel du projet.*
 
-## 🤝 Me contacter
+---
 
-Je suis ouvert aux échanges autour de la Data, de la Business Analysis, de la Supply Chain et des opportunités d'alternance.
+## 🤝 Me retrouver en ligne
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jean-philippe-perrin-28353a93/)
-- 🌐 [Portfolio](https://jpperrin25.github.io/Portfolio-Perrin-Jean-Philippe/)
-- 🧑‍💻 [Mes dépôts GitHub](https://github.com/jpperrin25)
+- 🌐 [Voir mon portfolio](https://jpperrin25.github.io/)
+- 💼 [Voir mon LinkedIn](https://www.linkedin.com/in/jean-philippe-perrin-28353a93/)
+- 💻 [Voir mon GitHub](https://github.com/jpperrin25)
 
 ---
 
